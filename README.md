@@ -3,7 +3,7 @@
 
 - 🧬 I’m currently doing my PhD @ **Novo Nordisk & Technical University of Denmark**
 
-- 👨‍💻 Further details about me and my work is available at [gade.ai](gade.ai)
+- 👨‍💻 Further details about me and my work is available at [gade.ai](https://gade.ai)
 
 - 📫 You can reach me at **frederik@gade.ai**
 
